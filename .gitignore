@@ -1,3 +1,5 @@
 node_modules/
 level1/
 should_be_ignore.txt
+*.log
+log/
