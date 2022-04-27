@@ -10,3 +10,5 @@ As stated above the main purpose ios to provide simple examples
 Deploy to any where
 
 ## Hot To Contribute
+
+## Copyright
