@@ -15,3 +15,6 @@ Deploy to any where
 
 # Another line to override
 This line will be conflicted with branch simple-changes
+
+# The conflicted line in master
+The conflicted content in master
