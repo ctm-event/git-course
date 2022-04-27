@@ -19,5 +19,8 @@ This line will be conflicted with branch simple-changes
 # The conflicted line in master
 The conflicted content in master
 
+# The conflicted line in realwork branch
+The conflicted content in realwork branch
+
 # The new line in master
 The conflicted line in master
