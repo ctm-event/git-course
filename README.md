@@ -12,3 +12,6 @@ Deploy to any where
 ## Hot To Contribute
 
 ## Copyright
+
+# Another line to override
+This line will be conflicted with branch simple-changes
