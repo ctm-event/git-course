@@ -24,3 +24,5 @@ The conflicted content in realwork branch
 
 # The new line in master
 The conflicted line in master
+
+# Text added while there is a stash existed
